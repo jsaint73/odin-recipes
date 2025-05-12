@@ -7,5 +7,5 @@ Created first page and added a link to go back to main page
 Finished second Page but need to fix the issue
 
 [x] added ingredients to third page
-[] need to add instructions as well
+[X] need to add instructions as well
 [] Pictures aren't loading need to fix
